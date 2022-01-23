@@ -1,0 +1,42 @@
+body {
+    min-width: 290px;
+    color: #4d4e53;
+    background-color: lightcyan;
+    font-family: 'Lucida Sans';
+    line-height: 4 ;
+    
+  }
+  #navbar {
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 5px;
+    width: 300px;
+    border-right: solid;
+    height: 100%;
+    border-color: rgba(0, 22, 22, 0.4);
+  
+  }
+  .nav-link{
+      text-decoration: none;
+      color: blue;
+  }
+  .E{
+    color: deeppink;
+    font-weight: 1000;
+    font-size: 30px;
+  }
+
+  .main-doc{
+    margin-left: 310px;
+
+  }
+  .subtitles{
+    font-size: 30px;
+    color: deeppink;
+    font-weight: 200;
+  }
+
+     
+
+    
